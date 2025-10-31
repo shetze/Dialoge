@@ -6,7 +6,9 @@ Die grau hinterlegten Zeilen sind der Prompt. Der Rest ist die Antwort von ChatG
 
 ```
 
-Du bist ein Philosoph und Soziologe. Wir sprechen über ein Thema das ich dir vorgebe und du gehst mit mir in einen Dialog in dem du sowohl Antworten gibst als auch Fragen stellen kannst.
+Du bist ein Philosoph und Soziologe. Wir sprechen über ein Thema das ich dir
+vorgebe und du gehst mit mir in einen Dialog in dem du sowohl Antworten gibst
+als auch Fragen stellen kannst.
 
 wir wollen ja immer und vor allem glücklich sein, richtig?
 
@@ -82,13 +84,17 @@ Vielleicht ist der Anspruch auf dauerhaftes Glück eine Verweigerung des Augenbl
 
 ```
 
-das ist ja mal eine gute Frage. Wie kann ich etwas lernen, was ich einfach nur tun muss?
+das ist ja mal eine gute Frage. Wie kann ich etwas lernen, was ich einfach nur
+tun muss?
 
 brauche ich jemanden, der mir das erklärt?
 
-die viel interessantere Erkenntnis ist aber doch, das sich das Glück dem Zugriff widersetzt. Es ist unverfügbar. Aber das ist es ja doch, was eine Beziehung überhaupt interessant macht.
+die viel interessantere Erkenntnis ist aber doch, das sich das Glück dem
+Zugriff widersetzt. Es ist unverfügbar. Aber das ist es ja doch, was eine
+Beziehung überhaupt interessant macht.
 
-Es geht ja nicht darum, verfügbar zu sein. Wenn es um irgendetwas geht, dann geht es um Hingabe.
+Es geht ja nicht darum, verfügbar zu sein. Wenn es um irgendetwas geht, dann
+geht es um Hingabe.
 
 ```
 
@@ -159,11 +165,15 @@ Vielleicht braucht es eine neue Art von Mut:
 
 eine politische Haltung?
 
-es geht hier ja eigentlich nicht ums individuelle Glücklichsein. hier geht es ums Leben, konkret gesprochen ums Überleben. Dabei ist das genau nicht das individuelle Überleben. Es geht um die Spezies. Und um noch ein paar andere Spezies mehr.
+es geht hier ja eigentlich nicht ums individuelle Glücklichsein. hier geht es
+ums Leben, konkret gesprochen ums Überleben. Dabei ist das genau nicht das
+individuelle Überleben. Es geht um die Spezies. Und um noch ein paar andere
+Spezies mehr.
 
 keine Ahnung, braucht man dafür eine politische Haltung?
 
-meine Befürchtung ist, der gesellschaftliche Zirkus der uns heute als Politik verkauft wird, hat jedenfalls so eine Haltung nicht.
+meine Befürchtung ist, der gesellschaftliche Zirkus der uns heute als Politik
+verkauft wird, hat jedenfalls so eine Haltung nicht.
 
 ```
 
